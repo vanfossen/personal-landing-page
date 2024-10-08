@@ -1,5 +1,10 @@
 import TypeIt from "typeit-react";
 
+/**
+ * Container component which holds the body of the landing page.
+ *
+ * @returns {React.JSX.Element} A page containing page contents.
+ */
 function App() {
   return (
     <div className="flex h-screen items-center justify-center bg-slate-700">
