@@ -1,3 +1,4 @@
+// react and other libraries
 import TypeIt from "typeit-react";
 
 /**
