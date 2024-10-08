@@ -1,13 +1,17 @@
-# personal-landing-page
+# simple-landing-page
 
 A simple [Vite + React + TailwindCSS](https://tailwindcss.com/docs/guides/vite) webpage for a [parked domain](https://en.wikipedia.org/wiki/Domain_parking).
 
 ## Main Dependencies
 
-- [Glyphs](https://glyphs.fyi/) (Specifically [globe-north-america](https://glyphs.fyi/dir?i=globeNorthAmerica))
+- [glyphs](https://github.com/gorango/glyphs) (Specifically [globe-north-america](https://glyphs.fyi/dir?i=globeNorthAmerica))
 
-- [TypeIt](https://github.com/alexmacarthur/typeit)
+  - SVG used for favicon
+
+- [typeit](https://github.com/alexmacarthur/typeit)
+
+  - Library used to display text
 
 ## License
 
-See [LICENSE](LICENSE)
+[MIT](LICENSE)
